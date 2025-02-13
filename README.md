@@ -1,9 +1,32 @@
-- 👋 Hi, I’m @a-nik-et
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently learning Backend
-- 💞️ I’m looking to collaborate on minor projects
-- 📫 How to reach me via mail:aniketmaity1308@gmail.com
-- ⚡ Fun fact: Did you know, JavaScript was created in just 10days...so anything is possible around in just 24hrs!
+# ☁️ Aniket Maity | AWS | DevOps | Cloud Solutions  
+
+### 👋 Hey, I'm @a-nik-et  
+🔹**AWS Obsessed – Living in the cloud 🌩️**
+🔹 **AWS Enthusiast | DevOps Practitioner | Cloud Architect-in-the-Making**  
+🔹 Passionate about **AWS, Infrastructure as Code (IaC), and Cloud Automation**  
+🔹 Specializing in **SysOps, DevOps, and AWS Solution Architecture**  
+
+---
+
+## 🚀 What I’m Doing  
+📌 **Building & managing AWS infrastructure with Terraform & Ansible**  
+📌 **Optimizing cloud deployments for high availability & scalability**  
+📌 **Exploring AWS services like EC2, S3, Lambda, VPC, and more**  
+📌 **Working towards AWS Solution Architect & DevOps certifications**  
+📌 Open to **collaborations on AWS, SysOps, and DevOps projects**  
+
+---
+
+## 📫 Reach Out  
+✉️ Email: [aniketmaity1308@gmail.com](mailto:aniketmaity1308@gmail.com)  
+💼 LinkedIn: https://www.linkedin.com/in/aniket1308/
+
+---
+
+## ⚡ Fun Fact  
+AWS was launched in **2006**, and now it powers **millions** of businesses worldwide. The cloud is the future—let’s build it together! 🚀  
+
+---
 
 <!---
 a-nik-et/a-nik-et is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
