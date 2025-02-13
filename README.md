@@ -1,5 +1,6 @@
 # ☁️ Aniket Maity | AWS | DevOps | Cloud Solutions  
 
+
 ### 👋 Hey, I'm @a-nik-et  
 🔹**AWS Obsessed – Living in the cloud 🌩️**
 🔹 **AWS Enthusiast | DevOps Practitioner | Cloud Architect-in-the-Making**  
@@ -9,8 +10,7 @@
 ---
 
 ## 🚀 What I’m Doing  
-📌 **Building & managing AWS infrastructure with Terraform & Ansible**  
-📌 **Optimizing cloud deployments for high availability & scalability**  
+📌 **Learning as along building AWS infrastructure and the AWS Cloud tools & Services**  
 📌 **Exploring AWS services like EC2, S3, Lambda, VPC, and more**  
 📌 **Working towards AWS Solution Architect & DevOps certifications**  
 📌 Open to **collaborations on AWS, SysOps, and DevOps projects**  
